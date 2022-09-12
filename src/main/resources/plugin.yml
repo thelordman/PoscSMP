@@ -1,0 +1,7 @@
+name: PoscSMP
+version: '${version}'
+main: thelordman.poscsmp.PoscSMP
+api-version: 1.19
+authors: [ thelordman ]
+description: The main plugin for the SMP server of the Posc Minecraft network.
+website: thelordman.github.io
